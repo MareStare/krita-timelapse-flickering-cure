@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=timelapse_flickering_cure
+X-Python-2-Compatible=false
+X-Krita-Manual=manual.html
+Name=Timelapse Flickering Cure
+Comment=Krita plugin, that removes white frames from timelapse data before rendering it
