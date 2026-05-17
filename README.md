@@ -5,7 +5,7 @@ This is Krita plugin, that removes white frames from timelapse data before rende
 ## Installation
 
 1. Open Krita.
-2. Go `Tools > Scripts > Import Plugin from Web`
+2. Go `Tools > Scripts > Import Plugin from Web...`
 3. Paste this link: https://github.com/MareStare/krita-timelapse-flickering-cure
 4. Restart Krita.
 
